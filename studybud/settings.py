@@ -113,8 +113,8 @@ USE_TZ = True
 
 # CSRF settings
 CSRF_TRUSTED_ORIGINS = [
-    'https://studybuddy-jmnx.onrender.com/',
-    'http://studybuddy-jmnx.onrender.com/',
+    'https://studybuddy-jmnx.onrender.com',
+    'http://studybuddy-jmnx.onrender.com',
 ]
 
 
