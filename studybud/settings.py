@@ -113,8 +113,8 @@ USE_TZ = True
 
 # CSRF settings
 CSRF_TRUSTED_ORIGINS = [
-    'https://studybud-6vws.onrender.com',
-    'http://studybud-6vws.onrender.com',
+    'https://studybudd-roba.onrender.com/',
+    'http://studybudd-roba.onrender.com/',
 ]
 
 
